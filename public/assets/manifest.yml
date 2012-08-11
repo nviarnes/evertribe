@@ -96,6 +96,9 @@ galaxyquest_media/tree.png: galaxyquest_media/tree-542245c289c60cf0ee88b6833b175
 galaxyquestthumbnail.png: galaxyquestthumbnail-7d7ff81c3dc009306ab15dde9b59734d.png
 rails.png: rails-be8732dac73d845ac5b142c8fb5f9fb0.png
 application.js: application-6462d4e2063ffa46805d4ef8da42d092.js
+dungeoneer.min.js: dungeoneer.min-51d32f718a30022e5badd984b749efba.js
+evertribe.min.js: evertribe.min-c5a8976bbeb18fb2200fe75e2e4e207d.js
+galaxyquest.min.js: galaxyquest.min-5669f370dfcbd08f6af41d0922828f01.js
 application.css: application-dd704d9ffa1ff097c99b6483e9faa8d5.css
 glyphicons-halflings-white.png: glyphicons-halflings-white-ef3d5b8d6a297804352b4a46fdb5466d.png
 glyphicons-halflings.png: glyphicons-halflings-0e7ff93d8f48fe1f5f762e4312e78da7.png
