@@ -20,12 +20,11 @@ SampleApp::Application.routes.draw do
   match '/help',    to: 'static_pages#help'
   match '/about',   to: 'static_pages#about'
   match '/contact', to: 'static_pages#contact'
-  match '/games',    to: 'static_pages#games'
 
   #game pages
-  match '/games/evertribe',    to: 'gamepages#evertribegame'
-  match '/games/galaxyquest',  to: 'gamepages#galaxyquest'
-  match '/games/dungeoneer',   to: 'gamepages#dungeoneer'
+  match '/evertribe',    to: 'gamepages#evertribegame'
+  match '/galaxyquest',  to: 'gamepages#galaxyquest'
+  match '/dungeoneer',   to: 'gamepages#dungeoneer'
 
   
   # The priority is based upon order of creation:

@@ -1,6 +1,6 @@
 <% if signed_in? %>
-  <div class="row">
-    <aside class="span4">
+  <div class="row-fluid">
+    <aside class="span2">
       <section>
         <%= render 'shared/user_info' %>
       </section>
@@ -11,7 +11,30 @@
         <%= render 'shared/micropost_form' %>
       </section>
     </aside>
-    <div class="span8">
+
+    <div class="span5">
+      <ul class="thumbnails">
+        <li class="span3">
+          <div class="thumbnail">
+            <%= link_to image_tag("/assets/evertribethumbnail.png"), evertribe_path %>
+            <h5>EverTribe</h5>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <%= link_to image_tag("/assets/galaxyquestthumbnail.png"), galaxyquest_path %>
+            <h5>GalaxyQuest</h5>
+          </div>
+        </li>
+        <li class="span3">
+          <div class="thumbnail">
+            <%= link_to image_tag("/assets/dungeoneerthumbnail.png"), dungeoneer_path %>
+            <h5>Dungeoneer</h5>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="span2">
       <h3>Idea Feed</h3>
       <%= render 'shared/feed' %>
     </div>

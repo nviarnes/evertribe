@@ -4,7 +4,7 @@ dungeoneer_media/16tiles.png: dungeoneer_media/16tiles-2fecbdf2bd37b67135538928b
 dungeoneer_media/crosshair.png: dungeoneer_media/crosshair-a5d45d9bb92f3114f56b64e74cf6a76b.png
 dungeoneer_media/joystick.png: dungeoneer_media/joystick-766d858f2bc5aada469232f2aee7cb0c.png
 dungeoneer_media/player.png: dungeoneer_media/player-d0ae8b751a261751364e40ae310668d2.png
-dungeoneerthumbnail.png: dungeoneerthumbnail-c22d57792c0fdc8fd1e349e996123ff8.png
+dungeoneerthumbnail.png: dungeoneerthumbnail-52112d7b5f83208f30d9dc257ce10ef6.png
 evertribe_media/04b03.font.png: evertribe_media/04b03.font-ce614f26985d48de622edd4c096325f3.png
 evertribe_media/04b04.font.png: evertribe_media/04b04.font-09ddd54e3f8bd9788a2351710262e9f7.png
 evertribe_media/HealthBar.png: evertribe_media/HealthBar-66198bfb8974ab810615c28a97a72fe8.png
@@ -70,7 +70,7 @@ evertribe_media/zombie.png: evertribe_media/zombie-a28ea505dec769c9e9fd96e07f8e2
 evertribe_media/zombiecreate.png: evertribe_media/zombiecreate-02241ae3d5572be9bdb92e2442f85cb4.png
 evertribe_media/ztest.png: evertribe_media/ztest-ca276d0ab922b3ece0c5add9e2bc8b57.png
 evertribe_media/ztest1.png: evertribe_media/ztest1-4e65289d8f723617a3dc118e44917b87.png
-evertribethumbnail.png: evertribethumbnail-11553c5247c59854599ecb2d788fafe9.png
+evertribethumbnail.png: evertribethumbnail-2cdaabf8fce10e80a5983a7745d03ed2.png
 galaxyquest_media/04b03.font.png: galaxyquest_media/04b03.font-ce614f26985d48de622edd4c096325f3.png
 galaxyquest_media/04b04.font.png: galaxyquest_media/04b04.font-fef4f6faf49def7b8afb708e9d48ddec.png
 galaxyquest_media/StamBar.png: galaxyquest_media/StamBar-501b571c7875fca4cb9c8426417d6d60.png
@@ -93,12 +93,12 @@ galaxyquest_media/player.png: galaxyquest_media/player-5752fc8f22f7dd6ac377a8489
 galaxyquest_media/sky.png: galaxyquest_media/sky-d5c06a9f1841804c0f04b7892229b000.png
 galaxyquest_media/title.png: galaxyquest_media/title-addf86d19d0db68350ccdeb338f2a97c.png
 galaxyquest_media/tree.png: galaxyquest_media/tree-542245c289c60cf0ee88b6833b175623.png
-galaxyquestthumbnail.png: galaxyquestthumbnail-7d7ff81c3dc009306ab15dde9b59734d.png
+galaxyquestthumbnail.png: galaxyquestthumbnail-c1807bb9ee19f6a151afc3be60507fe5.png
 rails.png: rails-be8732dac73d845ac5b142c8fb5f9fb0.png
 application.js: application-6462d4e2063ffa46805d4ef8da42d092.js
 dungeoneer.min.js: dungeoneer.min-51d32f718a30022e5badd984b749efba.js
 evertribe.min.js: evertribe.min-c5a8976bbeb18fb2200fe75e2e4e207d.js
 galaxyquest.min.js: galaxyquest.min-5669f370dfcbd08f6af41d0922828f01.js
-application.css: application-dd704d9ffa1ff097c99b6483e9faa8d5.css
+application.css: application-59ba80f32df062ef97dcbe439ad34da5.css
 glyphicons-halflings-white.png: glyphicons-halflings-white-ef3d5b8d6a297804352b4a46fdb5466d.png
 glyphicons-halflings.png: glyphicons-halflings-0e7ff93d8f48fe1f5f762e4312e78da7.png
