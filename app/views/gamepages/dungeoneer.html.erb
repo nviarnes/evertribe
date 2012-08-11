@@ -1,0 +1,18 @@
+<% if signed_in? %>
+<script type="text/javascript" src="/assets/dungeoneer.min.js"></script>
+  <div class="center hero-unit">
+    <canvas id="dungeoneer"></canvas>
+  </div>
+<% else %>
+  <div class="center hero-unit">
+    <h1>Whoops!</h1>
+
+    <h2>
+      We're sorry for the incoveniece but you need to sign up to play the beta!
+    </h2>
+
+    <%= link_to "Sign up now!", signup_path, 
+                                class: "btn btn-large btn-primary" %>
+  </div>
+
+<% end %>

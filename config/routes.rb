@@ -7,17 +7,27 @@ SampleApp::Application.routes.draw do
   resources :sessions, only: [:new, :create, :destroy]
   resources :microposts, only: [:create, :destroy]
   resources :relationships, only: [:create, :destroy]
-      
+  
+  # Homepage
   root to: 'static_pages#home'
 
+  # login routes
   match '/signup',  to: 'users#new'
   match '/signin',  to: 'sessions#new'
   match '/signout', to: 'sessions#destroy', via: :delete
-      
+     
+  #static pages  
   match '/help',    to: 'static_pages#help'
   match '/about',   to: 'static_pages#about'
   match '/contact', to: 'static_pages#contact'
+  match '/games',    to: 'static_pages#games'
 
+  #game pages
+  match '/games/evertribe',    to: 'gamepages#evertribegame'
+  match '/games/galaxyquest',  to: 'gamepages#galaxyquest'
+  match '/games/dungeoneer',   to: 'gamepages#dungeoneer'
+
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
