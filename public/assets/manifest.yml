@@ -8,9 +8,9 @@ dungeoneerthumbnail.png: dungeoneerthumbnail-52112d7b5f83208f30d9dc257ce10ef6.pn
 evertribe_media/04b03.font.png: evertribe_media/04b03.font-ce614f26985d48de622edd4c096325f3.png
 evertribe_media/04b04.font.png: evertribe_media/04b04.font-09ddd54e3f8bd9788a2351710262e9f7.png
 evertribe_media/HealthBar.png: evertribe_media/HealthBar-66198bfb8974ab810615c28a97a72fe8.png
-evertribe_media/PHealthBar.png: evertribe_media/PHealthBar-46dbce251a1938461cfb74df9654ef83.png
-evertribe_media/RenownBar.png: evertribe_media/RenownBar-24aa47307d2531a04f717b90ad36b26a.png
-evertribe_media/StamBar.png: evertribe_media/StamBar-c7d17c04436d5fad71cec027f9a3d343.png
+evertribe_media/PHealthBar.png: evertribe_media/PHealthBar-f7644e3e61373ebb754b3817af83bc92.png
+evertribe_media/RenownBar.png: evertribe_media/RenownBar-1c0142071d3954ce884026d9598be51b.png
+evertribe_media/StamBar.png: evertribe_media/StamBar-1bc25543f81517564c885e2fef3ecb0b.png
 evertribe_media/ammo.png: evertribe_media/ammo-4af536e3cf61e6c8e5c4259a4a7ff999.png
 evertribe_media/baldric.png: evertribe_media/baldric-f1fea7f47b83a62caa161ca1878b1362.png
 evertribe_media/bcollect.png: evertribe_media/bcollect-ffe91ebd31facde3afb2a81bed9344cc.png
@@ -18,6 +18,7 @@ evertribe_media/blood.png: evertribe_media/blood-19f1fae313d69fea33023d803a9094d
 evertribe_media/buildingtest.png: evertribe_media/buildingtest-62680b75eaf2f8f4b3a50ba372e03ec0.png
 evertribe_media/bullet.png: evertribe_media/bullet-87fe2425be3553ee4107584ac4edeae0.png
 evertribe_media/buttons.png: evertribe_media/buttons-9aa29edcba6de5594a2f376591a61b86.png
+evertribe_media/charbars copy.png: evertribe_media/charbars copy-c8406f9b65bf9c3373533fe615176ab7.png
 evertribe_media/charbars.png: evertribe_media/charbars-345ece74e52117501bfa27f5079a3ab7.png
 evertribe_media/chat-bubble-bleft.png: evertribe_media/chat-bubble-bleft-53e3e3a0bdd546813efe77ba9bbbd523.png
 evertribe_media/chat-bubble-bright.png: evertribe_media/chat-bubble-bright-a6760e9316700d04c6a8ebda4319dcff.png
@@ -39,6 +40,7 @@ evertribe_media/font.white.with.shadow.png: evertribe_media/font.white.with.shad
 evertribe_media/game-over.png: evertribe_media/game-over-afae15355b94b8417cc506cf20caa969.png
 evertribe_media/gatter.png: evertribe_media/gatter-006c431486d3f04155ffd9b03bb1c7e3.png
 evertribe_media/grenade.png: evertribe_media/grenade-17b23062e9c73593c8c20421836c1979.png
+evertribe_media/gui_base.png: evertribe_media/gui_base-974c6173c48368ff75b58a9d2dad3946.png
 evertribe_media/guiplayer.png: evertribe_media/guiplayer-e13d412fa31d1a2e76482d80b20c5648.png
 evertribe_media/healthpack.png: evertribe_media/healthpack-e68ac96adee3c8756b58156a562691f2.png
 evertribe_media/humancreate.png: evertribe_media/humancreate-faa1caa9fcc529907f80e9152b25178c.png
@@ -95,9 +97,9 @@ galaxyquest_media/title.png: galaxyquest_media/title-addf86d19d0db68350ccdeb338f
 galaxyquest_media/tree.png: galaxyquest_media/tree-542245c289c60cf0ee88b6833b175623.png
 galaxyquestthumbnail.png: galaxyquestthumbnail-c1807bb9ee19f6a151afc3be60507fe5.png
 rails.png: rails-be8732dac73d845ac5b142c8fb5f9fb0.png
-application.js: application-6462d4e2063ffa46805d4ef8da42d092.js
+application.js: application-5d374ee047ea090563d52eea571ff18f.js
 dungeoneer.min.js: dungeoneer.min-51d32f718a30022e5badd984b749efba.js
-evertribe.min.js: evertribe.min-c5a8976bbeb18fb2200fe75e2e4e207d.js
+evertribe.min.js: evertribe.min-b27157cc4418524f9f2b5338954640dc.js
 galaxyquest.min.js: galaxyquest.min-5669f370dfcbd08f6af41d0922828f01.js
 application.css: application-59ba80f32df062ef97dcbe439ad34da5.css
 glyphicons-halflings-white.png: glyphicons-halflings-white-ef3d5b8d6a297804352b4a46fdb5466d.png
